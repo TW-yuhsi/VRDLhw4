@@ -41,13 +41,6 @@ $ cd /home/yuhsi44165/NYCU/G2/VRDL/HW4/
 │   │   ├── .
 │   │   ├── .
 │   │   ├── rr27.png
-├── datasets.py
-├── eval.py
-├── model.py
-├── test.py
-├── train.py
-├── train_val_split.py
-├── utils.py
 ```
 
 </details>
