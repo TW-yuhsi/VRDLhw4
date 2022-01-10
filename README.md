@@ -14,6 +14,8 @@ $ conda activate VRDLhw4_SRResNet
 $ conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
 $ cd /home/yuhsi44165/NYCU/G2/VRDL/HW4/
 $ git clone https://github.com/TW-yuhsi/VRDLhw4.git
+$ cd VRDLhw4/
+$ pip install -r requirements.txt
 ```
   
 </details>
