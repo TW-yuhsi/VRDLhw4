@@ -90,6 +90,7 @@ $ python test.py
 <details>
 <summary>Reference</summary>
 
+- https://arxiv.org/abs/1609.04802
 - https://github.com/twtygqyy/pytorch-SRResNet
 - https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution
   
