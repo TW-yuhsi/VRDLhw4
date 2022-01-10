@@ -1,15 +1,7 @@
 # VRDLhw4
 
-## Installation
 
-```bash
-$ 
-$ pip install -r requirements.txt
-```
-
-
-
-<details>
+<details open>
 <summary>Installation</summary>
 
 ```bash
@@ -18,6 +10,35 @@ $ git clone
 ```
   
 </details>
+
+
+
+<details open>
+<summary>Folder structure</summary>
+
+After downloading and extracting, the data directory is structured as:
+
+```text
++- data
+    +- testing_lr_images
+        +- 00.png
+        +- 01.png
+        ...
+    +- training_hr_images
+        +- 2092.png
+        +- 8049.png
+        ...
+datasets.py
+eval.py
+model.py
+test.py
+train.py
+train_val_split.py
+utils.py
+```
+
+<details>
+
 
 
 
