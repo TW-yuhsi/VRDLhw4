@@ -9,8 +9,8 @@
 <summary>Setup</summary>
 
 ```bash
-$ conda create -n VRDLhw4 python=3.7
-$ conda activate VRDLhw4
+$ conda create -n VRDLhw4_SRResNet python=3.7
+$ conda activate VRDLhw4_SRResNet
 $ conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
 $ cd /home/yuhsi44165/NYCU/G2/VRDL/HW4/
 $ git clone
