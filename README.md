@@ -15,8 +15,19 @@ $ git clone
 
 <details open>
 <summary>Folder structure</summary>
-
-After downloading and extracting, the data directory is structured as:
+  
+```text
+$ cd YOLOX/datasets/
+├── data
+│   ├── VOCdevkit
+│   │   ├── VOC2007
+│   │   │   ├── Annotations    # put test.txt、trainval.txt corresponding .xml files here
+│   │   │   ├── JPEGImages    # put test.txt、trainval.txt corresponding .jpg files here
+│   │   │   ├── ImageSets
+│   │   │   │   ├── Main
+│   │   │   │   │   ├── test.txt    # generated after excute split.py
+│   │   │   │   │   ├── trainval.txt    # generated after excute split.py
+```
 
 ```text
 +- data
