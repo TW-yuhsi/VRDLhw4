@@ -45,10 +45,21 @@ $ cd /home/yuhsi44165/NYCU/G2/VRDL/HW4/
 │   │   ├── rr27.png
 ```
   
-
-
 </details>
+
+
+
+
+<details>
+<summary>Split training data</summary>
+
+```bash
+$ python train_val_split.py
+```
   
+</details>
+
+
   
   
 ## EDSR
