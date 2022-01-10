@@ -99,18 +99,20 @@ $ python test.py
 
 
 
+## RCAN (best score: 26.7379)
+  
+  
+  
+## HAN (best score: 26.4231)
+
 
   
   
-## EDSR (best score:)
+## EDSR (best score: 26.1087)
   
   
   
-## RCAN (best score:)
-  
-  
-  
-## HAN (best score:)
+
 
 
 
