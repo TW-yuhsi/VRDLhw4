@@ -1,7 +1,11 @@
 # VRDLhw4
 
 
-<details open>
+
+## Setup
+
+
+<details>
 <summary>Installation</summary>
 
 ```bash
@@ -13,7 +17,8 @@ $ git clone
 
 
 
-<details open>
+
+<details>
 <summary>Folder structure</summary>
   
 ```text
