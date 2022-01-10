@@ -84,9 +84,19 @@ $ python test.py
 </details>
 
 
-### Reference
+
+
+
+<details>
+<summary>Reference</summary>
+
 - https://github.com/twtygqyy/pytorch-SRResNet
 - https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution
+  
+</details>
+
+
+
 
 
   
