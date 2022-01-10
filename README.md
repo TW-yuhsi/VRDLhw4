@@ -60,6 +60,35 @@ $ python train_val_split.py
 </details>
 
 
+
+
+<details>
+<summary>Training</summary>
+
+```bash
+$ python train.py
+```
+  
+</details>
+
+
+
+
+<details>
+<summary>Inference</summary>
+
+```bash
+$ python test.py
+```
+  
+</details>
+
+
+### Reference
+- https://github.com/twtygqyy/pytorch-SRResNet
+- https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution
+
+
   
   
 ## EDSR
