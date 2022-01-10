@@ -2,7 +2,7 @@
 
 
 
-## SRResNet
+## SRResNet (best score: 26.9829)
 
 
 <details>
@@ -91,15 +91,15 @@ $ python test.py
 
   
   
-## EDSR
+## EDSR (best score:)
   
   
   
-## RCAN
+## RCAN (best score:)
   
   
   
-## HAN
+## HAN (best score:)
 
 
 
