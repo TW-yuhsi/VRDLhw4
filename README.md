@@ -50,11 +50,11 @@ $ cd /home/yuhsi44165/NYCU/G2/VRDL/HW4/
 ├── utils.py
 ```
 
-<details>
+</details>
   
   
   
-## EDSR_
+## EDSR
   
   
   
