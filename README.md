@@ -36,7 +36,7 @@ $ cd /home/yuhsi44165/NYCU/G2/VRDL/HW4/
 │   │   ├── .
 │   │   ├── .
 │   │   ├── 13.png
-│   ├── testing_hr_images
+│   ├── training_hr_images
 │   │   ├── 2092.png
 │   │   ├── 8049.png
 │   │   ├── .
