@@ -119,14 +119,22 @@ $ python test.py
 
 ## Related URLs
 
-• Dataset link
+- Dataset link
 
 https://drive.google.com/file/d/1SJYi-q56NMuT_YOD_8kTXivwDM96AvUx/view?usp=sharing
 
-• GitHub Repository
+- GitHub Repository
 
 
 
-• Model weights after training ()
+- Model weights after training ()
+
+
+
+## Reference
+- 
+- https://github.com/saeed-anwar/DRLN
+- https://github.com/haoyuc/A2N
+- 
 
 
