@@ -98,6 +98,18 @@ $ python test.py
 
 
 
+## EDSR (best score: 26.1087)
+
+
+<details>
+<summary>Reference</summary>
+
+- https://arxiv.org/abs/1707.02921
+- https://github.com/sanghyun-son/EDSR-PyTorch
+  
+</details>
+
+
 
 ## RCAN (best score: 26.7379)
   
@@ -129,16 +141,7 @@ $ python test.py
 
   
   
-## EDSR (best score: 26.1087)
 
-
-<details>
-<summary>Reference</summary>
-
-- https://arxiv.org/abs/1707.02921
-- https://github.com/sanghyun-son/EDSR-PyTorch
-  
-</details>
   
   
   
