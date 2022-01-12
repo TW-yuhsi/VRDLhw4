@@ -107,8 +107,7 @@ $ python test.py
 <summary>Reference</summary>
 
 - https://arxiv.org/abs/1807.02758
-- https://github.com/twtygqyy/pytorch-SRResNet
-- https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution
+- https://github.com/yulunzhang/RCAN
   
 </details>
 
@@ -121,9 +120,9 @@ $ python test.py
 <details>
 <summary>Reference</summary>
 
-- https://arxiv.org/abs/1609.04802
-- https://github.com/twtygqyy/pytorch-SRResNet
-- https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution
+- https://arxiv.org/abs/2008.08767
+- https://github.com/wwlCape/HAN
+
   
 </details>
 
@@ -137,8 +136,7 @@ $ python test.py
 <summary>Reference</summary>
 
 - https://arxiv.org/abs/1707.02921
-- https://github.com/twtygqyy/pytorch-SRResNet
-- https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution
+- https://github.com/sanghyun-son/EDSR-PyTorch
   
 </details>
   
