@@ -2,7 +2,7 @@
 
 
 
-## SRResNet (best score: 26.9829)
+## SRResNet (best score: 28.0523)
 
 
 <details>
