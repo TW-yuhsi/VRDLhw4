@@ -103,12 +103,44 @@ $ python test.py
   
   
   
+<details>
+<summary>Reference</summary>
+
+- https://arxiv.org/abs/1807.02758
+- https://github.com/twtygqyy/pytorch-SRResNet
+- https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution
+  
+</details>
+
+
+  
+  
 ## HAN (best score: 26.4231)
+
+
+<details>
+<summary>Reference</summary>
+
+- https://arxiv.org/abs/1609.04802
+- https://github.com/twtygqyy/pytorch-SRResNet
+- https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution
+  
+</details>
 
 
   
   
 ## EDSR (best score: 26.1087)
+
+
+<details>
+<summary>Reference</summary>
+
+- https://arxiv.org/abs/1707.02921
+- https://github.com/twtygqyy/pytorch-SRResNet
+- https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution
+  
+</details>
   
   
   
