@@ -42,7 +42,7 @@ $ cd /home/yuhsi44165/NYCU/G2/VRDL/HW4/
 │   │   ├── .
 │   │   ├── .
 │   │   ├── .
-│   │   ├── rr27.png
+│   │   ├── tt27.png
 ```
   
 </details>
