@@ -149,22 +149,14 @@ $ python test.py
 
 ## Related URLs
 
-- Dataset link
-
-https://drive.google.com/file/d/1SJYi-q56NMuT_YOD_8kTXivwDM96AvUx/view?usp=sharing
-
-- GitHub Repository
-
-
-
-- Model weights after training ()
+- Dataset link: https://drive.google.com/file/d/1SJYi-q56NMuT_YOD_8kTXivwDM96AvUx/view?usp=sharing
+- Experimental results: 
+- Model weights after training (SRResNet): 
 
 
 
 ## Reference
-- 
 - https://github.com/saeed-anwar/DRLN
 - https://github.com/haoyuc/A2N
-- 
 
 
