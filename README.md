@@ -153,8 +153,8 @@ $ python test.py
 ## Related URLs
 
 - Dataset link: https://drive.google.com/file/d/1SJYi-q56NMuT_YOD_8kTXivwDM96AvUx/view?usp=sharing
-- Experimental results: 
-- Model weights after training (SRResNet): 
+- Experimental results: https://docs.google.com/spreadsheets/d/1ttBWq64IWFo7lawCdKRM4RoGpyF_aazjS7nnvZY4BUw/edit?usp=sharing
+- Model weights after training (SRResNet): https://drive.google.com/drive/folders/133OC846NPgfv_s1232FWKs4kQV2NSaW9?usp=sharing
 
 
 
